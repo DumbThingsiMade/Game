@@ -1,0 +1,19 @@
+
+{
+  "short_name": "Attmay",
+  "name": "Attmay's Corporate Slumber",
+  "description": "Don't fall asleep at your desk.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
